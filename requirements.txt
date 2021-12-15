@@ -10,12 +10,4 @@ numpy==1.18.2
 pymongo==3.10.1
 PyYAML==3.13
 six==1.14.0
-
 SQLAlchemy==1.2.0
-srsly==1.0.2
-thinc==7.0.8
-tqdm==4.44.1
-urllib3==1.25.8
-wasabi==0.6.0
-Werkzeug==1.0.0
-
